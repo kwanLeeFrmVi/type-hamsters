@@ -4,7 +4,7 @@
     "emitDeclarationOnly": true,
     "outDir": "./types",
     "rootDir": "./",
-    "typeRoots": ["./node_modules/@types", "./src"]
+    "typeRoots": ["./node_modules/@types", "./@types"]
   },
-  "include": ["src/**/*.ts", "test.ts", "global.d.ts"]
+  "include": ["@types/**/*.ts", "test.ts", "global.d.ts"]
 }
