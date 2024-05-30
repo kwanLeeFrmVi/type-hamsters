@@ -1,0 +1,21 @@
+{
+  "name": "type-hamsters",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.4.5"
+  },
+  "dependencies": {
+    "hamsters.js": "^5.4.4",
+    "install": "^0.13.0",
+    "npm": "^10.8.1",
+    "react-native-hamsters": "^1.0.10"
+  }
+}
